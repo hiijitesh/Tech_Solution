@@ -21,7 +21,7 @@ const Services = () => {
         </div>
         <div>
           <img src={img2} alt="Item3" />
-          <p className="legend">Peer-to-peer Support</p>
+          <p className="legend">peer-to-peer support</p>
         </div>
       </Carousel>
     </div>
